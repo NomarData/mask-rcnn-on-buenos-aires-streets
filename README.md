@@ -3,7 +3,9 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 
 ![Single frame detection](https://cdn-images-1.medium.com/max/1600/1*fTXUQfhvnH_S-kzGaqNnMA.png)
 
-# Installation & Usage
+## Installation & Usage
 Please follow the detailed step-by-step tutorial I posted on [Medium](https://medium.com/@nicolas.metallo/using-mask-r-cnn-in-the-streets-of-buenos-aires-a6cb6509ca75) to install and run this demo. You can also directly run ```demo-step-by-step.ipynb```.
 
-![GIF Mask R-CNN](https://cdn-images-1.medium.com/max/1600/1*2-SE6mDcLK8hyD6UNqFBeg.gif)
+[![](http://img.youtube.com/vi/xTByN4uVoCo/0.jpg)](http://www.youtube.com/watch?v=xTByN4uVoCo "Using Mask R-CNN in the streets of Buenos Aires")
+
+![](https://cdn-images-1.medium.com/max/1600/1*2-SE6mDcLK8hyD6UNqFBeg.gif)
